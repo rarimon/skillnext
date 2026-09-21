@@ -1,0 +1,6 @@
+{
+  "name": "SkillNest Academy",
+  "description": "Modern Online Course Selling & Learning Management System (LMS) for Bangladesh - শিখুন, তৈরি করুন, ক্যারিয়ারে এগিয়ে যান।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
